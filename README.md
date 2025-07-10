@@ -23,14 +23,15 @@ All the implementation details are available in the Jupyter notebook. Below is a
   * Saved the model and used it to predict on a local image
  
 ## Results
-**Accuracy score on test set**: 97% <br>
-Accuracy during training:
+### Accuracy score on test set: 97% 
+
+##### Accuracy during training:
 ![Accuracy Curve](https://github.com/sejalmdn/TS-Recog/blob/main/accuracy.png)
 <br>
-Loss during training:
+##### Loss during training:
 ![Loss Curve](https://github.com/sejalmdn/TS-Recog/blob/main/loss.png)
 <br>
-Confusion Matrix:
+##### Confusion Matrix:
 ![Confusion Matrix](https://github.com/sejalmdn/TS-Recog/blob/main/confusionMatrix.png)
 
 ## Predicting on New Images
