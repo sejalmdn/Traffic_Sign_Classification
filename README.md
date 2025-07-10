@@ -15,7 +15,7 @@ All the implementation details are available in the Jupyter notebook. Below is a
   * Built a simple CNN model with Conv2D, Maxpooling, Dropout and Dense layers
   * Used `softmax` activation in the ouput layer
 * **Training**
-  * Trained the model for 15 epochs using the augmented data and with validation data to monitor
+  * Trained the model for 15 epochs using the augmented data and with validation data to monitor the performance
 * **Evaluation**
   * Evaluated the model using accuracy and loss curves
   * Achieved **97%** accuracy on the test set
