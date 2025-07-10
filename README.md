@@ -36,7 +36,7 @@ All the implementation details are available in the Jupyter notebook. Below is a
 
 ## Predicting on New Images
 To test the model on locally stored images, use [this](https://github.com/sejalmdn/TS-Recog/blob/main/Test_Model.ipynb). <br>
-Shown below is an example of the output obtained when the model is used to predict the label of a locally stored image.
+Shown below is an example of the output obtained when the model is used to predict the label of a locally stored image. <br>
 ![test_img_pred](https://github.com/sejalmdn/TS-Recog/blob/main/test_img_pred.png)
 
 ## Set up and installation
