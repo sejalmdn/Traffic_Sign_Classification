@@ -18,12 +18,12 @@ All the implementation details are available in the Jupyter notebook. Below is a
   * Trained the model for 15 epochs using the augmented data and with validation data to monitor the performance
 * **Evaluation**
   * Evaluated the model using accuracy and loss curves
-  * Achieved **97%** accuracy on the test set
+  * Achieved **96.8%** accuracy on the test set
 * **Inference**
   * Saved the model and used it to predict on a local image
  
 ## Results
-### Accuracy score on test set: 97% 
+### Accuracy score on test set: 96.8% 
 
 ##### Accuracy during training:
 ![Accuracy Curve](https://github.com/sejalmdn/TS-Recog/blob/main/accuracy.png)
