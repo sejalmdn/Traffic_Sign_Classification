@@ -28,7 +28,9 @@ Accuracy during training:
 Loss during training:
 ![Loss Curve]()
 
-<br>
-**Accuracy score on test set**: 97%
+**Accuracy score on test set**: 97% <br>
 Confusion Matrix:
 ![Confusion Matrix]()
+
+## Predicting on New Images
+To test the model on locally stored images, use [this]().
