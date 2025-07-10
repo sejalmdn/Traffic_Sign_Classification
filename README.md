@@ -34,4 +34,11 @@ Confusion Matrix:
 ![Confusion Matrix](https://github.com/sejalmdn/TS-Recog/blob/main/confusionMatrix.png)
 
 ## Predicting on New Images
-To test the model on locally stored images, use [this](https://github.com/sejalmdn/TS-Recog/blob/main/Test_Model.ipynb).
+To test the model on locally stored images, use [this](https://github.com/sejalmdn/TS-Recog/blob/main/Test_Model.ipynb). <br>
+Shown below is an example of the output obtained when the model is used to predict the label of a locally stored image.
+![test_img_pred](https://github.com/sejalmdn/TS-Recog/blob/main/test_img_pred.png)
+
+## Set up and installation
+Install the required Python packages using:
+```bash
+pip install -r requirements.txt
